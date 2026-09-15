@@ -1,0 +1,7 @@
+numpy
+pandas
+sql
+matplotlib
+seaborn
+streamlit
+jupyter notebook
