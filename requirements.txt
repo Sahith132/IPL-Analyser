@@ -1,7 +1,5 @@
-numpy
+streamlit
 pandas
-sql
+numpy
 matplotlib
 seaborn
-streamlit
-jupyter notebook
