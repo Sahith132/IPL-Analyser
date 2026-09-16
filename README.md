@@ -2,6 +2,8 @@
 
 My first full data analysis project — an interactive dashboard that digs into 17 seasons of IPL cricket (2008–2024), from team performance to individual player stats, built entirely with Python and SQL.
 
+## Live App
+ [Check it out here](https://ipl-analyser-bghvgiemmtey2zrercnf4w.streamlit.app/)
 
 ## Why I built this
 
