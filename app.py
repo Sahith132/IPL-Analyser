@@ -166,7 +166,7 @@ elif page == "Season Analysis":
 
 
 elif page == "SQL Explorer":
-    st.title("🗄️ SQL Explorer")
+    st.title("SQL Explorer")
     st.divider()
 
     st.subheader("Predefined Queries")
