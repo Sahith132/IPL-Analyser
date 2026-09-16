@@ -22,7 +22,7 @@ st.set_page_config(page_title="IPL Analyzer", layout="wide")
 
 @st.cache_data
 def load_data():
-    matches, deliveries = load_raw_data('data/raw/matches.csv', 'data/raw/deliveries.csv')
+    matches, deliveries = load_raw_data('Data/Raw/matches.csv', 'Data/Raw/deliveries.csv')
     matches = clean_matches(matches)
     deliveries = clean_deliveries(deliveries)
     return matches, deliveries
